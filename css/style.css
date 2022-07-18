@@ -936,5 +936,32 @@ body {
       #footer .copyright, #footer .credits {
         float: none;
         text-align-last: center; } }
+
+
+        @media(max-width: 991px){
+          .testimonial-item{
+            text-align: center;
+          }
+          .testimonial-item h3{
+            margin-left: 0 !important;
+          }
+          .testimonial-item h4{
+            margin-left: 0 !important;
+          }
+          .testimonial-item .testimonial-img{
+            margin-left: 0 !important;
+          }
+        }
+
+.testimonial-item .fa-quote-left{
+  color: #e4e6ea;
+    font-size: 22px;
+    left: -5px;
+}
+.testimonial-item .fa-quote-right{
+  color: #e4e6ea;
+    font-size: 22px;
+    right: -5px;
+}
   
   /*# sourceMappingURL=style.css.map */

@@ -48,7 +48,7 @@
     <link href="./css/style.css" rel="stylesheet">
 
 
-    <link type="image/x-icon" rel="shortcut icon" href="./img/HfuDePM2vCgqpSK.png">
+    <link type="image/x-icon" rel="shortcut icon" href="./assets/img/HfuDePM2vCgqpSK.png">
 
 
 </head>
@@ -73,7 +73,7 @@
                     <li><a href="javascript:void(0);" onclick="onGetStarted()" class="getstarted scrollto">Get
                         Started</a></li>
                 </ul>
-                <i class="bi bi-list mobile-nav-toggle"></i></nav>
+                <i class="bi bi-list mobile-nav-toggle fa fa-bars" aria-hidden="true"></i></nav>
         </div>
     </header>
     <section id="hero" class="d-flex align-items-center">
@@ -190,26 +190,18 @@
         <section id="counts" class="counts">
             <div class="container">
                 <div class="row counters">
-                    <div class="col-lg-3 col-6 text-center"><span data-purecounter-start="0"
-                                                                  :data-purecounter-end="config.index_data.user"
-                                                                  data-purecounter-duration="0"
+                    <div class="col-lg-3 col-6 text-center"><span 
                                                                   class="purecounter">5166</span>
                         <p class="no-margin">users</p>
                         <p class="desc">in the last 30 days</p></div>
-                    <div class="col-lg-3 col-6 text-center"><span data-purecounter-start="0"
-                                                                  :data-purecounter-end="config.index_data.node"
-                                                                  data-purecounter-duration="0" class="purecounter">65467</span>
+                    <div class="col-lg-3 col-6 text-center"><span  class="purecounter">65467</span>
                         <p class="no-margin">trades</p>
                         <p class="desc">in the last 30 days</p></div>
-                    <div class="col-lg-3 col-6 text-center"><span data-purecounter-start="0"
-                                                                  data-purecounter-end="config.index_data.all_trx"
-                                                                  data-purecounter-duration="0" class="purecounter">32195</span>
+                    <div class="col-lg-3 col-6 text-center"><span  class="purecounter">32195</span>
                                                                   
                         <p class="no-margin">minings</p>
                         <p class="desc">in the last 30 days</p></div>
-                    <div class="col-lg-3 col-6 text-center"><span data-purecounter-start="0"
-                                                                  data-purecounter-end="config.index_data.money"
-                                                                  data-purecounter-duration="0" class="purecounter">66563</span>
+                    <div class="col-lg-3 col-6 text-center"><span  class="purecounter">66563</span>
                         <p class="no-margin">withdrawals</p>
                         <p class="desc">in the last 30 days</p></div>
                 </div>
@@ -230,129 +222,129 @@
                  style="transform: translate3d(-3509.33px, 0px, 0px); transition-duration: 0ms;">
                 <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group"
                      aria-label="3 / 5" style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class=" fa fa-quote-left" aria-hidden="true"></i>
                         I spent a long time researching passive income and my stocks made me lose a lot of money
                         until I
                         found
                         and it really helped me so much. Thanks to the developers of , I don't
                         need to
                         learn about blockchain to participate in mining.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></p> <img
                             src="./assets/img/testimonials-3.jpg" alt="" class="testimonial-img">
                         <h3>Jena Karlis</h3> <h4>Store Owner</h4></div>
                 </div>
                 <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" role="group"
                      aria-label="4 / 5" style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class="fa fa-quote-left" aria-hidden="true"></i>
                         My friend spent tens of thousands of dollars on computer mining and he had no idea that
                         I was
                         earning
                         even more than him on until the last time he found out and I invited him to get
                         involved and
                         he has now sold his computer.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></p> <img
                             src="./assets/img/testimonials-2.jpg" alt="" class="testimonial-img">
                         <h3>Matt Brandon</h3> <h4>Freelancer</h4></div>
                 </div>
                 <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev"
                      data-swiper-slide-index="4" role="group" aria-label="5 / 5"
                      style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class="fa fa-quote-left" aria-hidden="true"></i>
                         I've now quit my job and started doing what I love to do and I've been to over 10
                         countries. There
                         are
                         many ways to be financially free, and when you can live well without working, that's
                         financial
                         freedom. Thanks to the developers at .
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></p> <img
                             src="./assets/img/testimonials-1.jpg" alt="" class="testimonial-img">
                         <h3>John Larson</h3> <h4>Freelancer</h4></div>
                 </div>
                 <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group"
                      aria-label="1 / 5" style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class="fa fa-quote-left" aria-hidden="true"></i>
                         At first, I put a small amount of USDT in my wallet and then spent a month to evaluate
                         the effect.
                         The
                         numbers shown on the final statement made up my mind to continue using it. It is so
                         amazing that I
                         don't need to do any operation to get profit.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></p> <img
                             src="./assets/img/testimonials-3.jpg" alt="" class="testimonial-img">
                         <h3>Jake Robinson</h3> <h4>financial analyst</h4></div>
                 </div>
                 <div class="swiper-slide swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group"
                      aria-label="2 / 5" style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class="fa fa-quote-left" aria-hidden="true"></i>
                         It's hard to imagine that I could make a profit while I'm busy raising three kids and
                         having a job; all I need to do is to put the money from my savings into the wallet and
                         just watch it grow, thanks to technology these days!
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></p> <img
                             src="./assets/img/testimonials-2.jpg" alt="" class="testimonial-img">
                         <h3>Hannah Meyer </h3> <h4>Purchasing Agent</h4></div>
                 </div>
                 <div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="3 / 5"
                      style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class="fa fa-quote-left" aria-hidden="true"></i>
                         I spent a long time trying to get a stable passive income. But my stocks made me lose a
                         lot of money. I was desperate until I found this platform. Thanks to the developers of
                         ESM-ETH, now I don't even need to learn about blockchain to participate in mining and
                         making money!
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></p> <img
                             src="./assets/img/testimonials-3.jpg" alt="" class="testimonial-img">
                         <h3>Freya Lindberg</h3> <h4>Store Owner</h4></div>
                 </div>
                 <div class="swiper-slide" data-swiper-slide-index="3" role="group" aria-label="4 / 5"
                      style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class="fa fa-quote-left" aria-hidden="true"></i>
                         My friend spent tens of thousands of dollars on computer mining and he had no idea that
                         I was earning even more than him because I'm using liquidity mining. I showed him my
                         results and invited him to join me; and now he has sold his mining machine.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></p> <img
                             src="./assets/img/testimonials-2.jpg" alt="" class="testimonial-img">
                         <h3>Jacob Williams</h3> <h4>Freelancer</h4></div>
                 </div>
                 <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4" role="group"
                      aria-label="5 / 5" style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class="fa fa-quote-left" aria-hidden="true"></i>
                         I had a typical office job before, but now I’ve quit my job and started traveling around
                         the world while I'm making money! This is the answer you've been seeking for if the life
                         you want is the life that I’m living.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></p> <img
                             src="./assets/img/testimonials-1.jpg" alt="" class="testimonial-img">
                         <h3>John Phillips</h3> <h4>Freelancer</h4></div>
                 </div>
                 <div class="swiper-slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0"
                      role="group" aria-label="1 / 5" style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class="fa fa-quote-left" aria-hidden="true"></i>
                         At first, I put a small amount of USDT in my wallet and then spent a month evaluating
                         the effect of this platform. The numbers shown on the final statement made up my mind to
                         continue using it. It is so amazing that I don't need to do any operation to get a
                         profit.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></p> <img
                             src="./assets/img/testimonials-1.jpg" alt="" class="testimonial-img">
                         <h3>Jake Robinson</h3> <h4>financial analyst </h4></div>
                 </div>
                 <div class="swiper-slide swiper-slide-duplicate swiper-slide-next" data-swiper-slide-index="1"
                      role="group" aria-label="2 / 5" style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class="fa fa-quote-left" aria-hidden="true"></i>
                         It's hard to imagine that I could make a profit while I'm busy raising three kids and
                         having a job; all I need to do is to put the money from my savings into the wallet and
                         just watch it grow, thanks to technology these days!
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></i></p> <img
                             src="./assets/img/testimonials-2.jpg" alt="" class="testimonial-img">
                         <h3>Hannah Meyer</h3> <h4>Purchasing Agent</h4></div>
                 </div>
                 <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group"
                      aria-label="3 / 5" style="width: 418.667px; margin-right: 20px;">
-                    <div class="testimonial-item"><p><i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    <div class="testimonial-item"><p><i class="fa fa-quote-left" aria-hidden="true"></i>
                         I spent a long time researching passive income and my stocks made me lose a lot of money
                         until I
                         found
                         and it really helped me so much. Thanks to the developers of , I don't
                         need to
                         learn about blockchain to participate in mining.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i></p> <img
+                        <i class="fa fa-quote-right" aria-hidden="true"></i></p> <img
                             src="./assets/img/testimonials-3.jpg" alt="" class="testimonial-img">
                         <h3>Jena Karlis</h3> <h4>Store Owner</h4></div>
                 </div>
