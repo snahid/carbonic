@@ -209,7 +209,7 @@
                         <p class="desc">in the last 30 days</p></div>
                     <div class="col-lg-3 col-6 text-center"><span data-purecounter-start="0"
                                                                   data-purecounter-end="config.index_data.money"
-                                                                  data-purecounter-duration="0" class="purecounter">6656603</span>
+                                                                  data-purecounter-duration="0" class="purecounter">66563</span>
                         <p class="no-margin">withdrawals</p>
                         <p class="desc">in the last 30 days</p></div>
                 </div>
